@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pr3bGYmaxYrm0qe7yVaZ/BFVHWvuUiQVuDdXuw0c0d2PdeXcYOdj966rDwlhX6YN9398d3JBuMJfEHqCpOy87Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kibati\\source\\repos\\DnsOsSetting\\DnsOsSetting\\DnsOsSetting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kibati\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\kibati\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
